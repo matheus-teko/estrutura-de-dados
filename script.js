@@ -1,0 +1,10 @@
+let nome = "Matheus";
+console.log (nome);
+let ano1 = 2;
+let ano2 = 2022;
+console.log (ano2-ano1);
+let texto = "Estou mexendo no console.log";
+console.log (texto);
+let quartaFeira = true;
+console.log (quartaFeira);
+console.log(ano1 + ano2);
